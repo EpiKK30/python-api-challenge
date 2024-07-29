@@ -69,8 +69,6 @@ Further exploration could include:
 
 This repository includes a `.gitignore` file to exclude sensitive information such as API keys in `api_keys.py`. Please ensure you have your own API key for OpenWeatherMap and Geoapify to run the notebooks. 
 
-For further questions or contributions, please contact [Kevin Ngala](mailto:kevin.ngala@example.com).
-
 ---
 
 This README provides an overview of the WeatherPy and VacationPy project, the challenges faced, and how the issues were resolved. The project demonstrates data analysis and visualization skills, critical for answering practical questions using real-world data.
